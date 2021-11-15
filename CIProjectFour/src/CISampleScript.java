@@ -10,7 +10,7 @@ public class CISampleScript {
 		
 		System.out.println("tosca");
 		
-		System.out.println("uft");
+		
 	}
 
 }
